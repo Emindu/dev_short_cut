@@ -4,3 +4,8 @@
 ```
 ctrl+c
 ```
+
+2. moved to error line
+   ```
+  f2
+   ```
