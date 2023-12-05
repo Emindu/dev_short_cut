@@ -1,1 +1,6 @@
-# dev_short_cut
+# intellij idea shortcuts
+
+1. select current line:  
+```
+Control + c
+```
