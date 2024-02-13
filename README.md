@@ -16,3 +16,11 @@ ctrl + shift + p
 ```
 
 ![2024-02-1317-06-28-ezgif com-video-to-gif-converter](https://github.com/Emindu/dev_short_cut/assets/41495728/b366c3ef-840b-4851-9abe-743e6dcf876a)
+
+4. version controlling system menu
+
+```
+alt + `
+```
+![2024-02-1317-18-05-ezgif com-video-to-gif-converter](https://github.com/Emindu/dev_short_cut/assets/41495728/3d9f32d8-be67-4b84-b451-87a551b92dc2)
+
