@@ -10,7 +10,7 @@ ctrl+c
 f2
 ```
 
-3. **some Times we want to get the return type of called method we can get it with **
+3. **some Times we want to get the return type of called method we can get it with**
 ```
 ctrl + shift + p
 ```
