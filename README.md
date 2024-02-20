@@ -24,3 +24,9 @@ alt + `
 ```
 ![2024-02-1317-18-05-ezgif com-video-to-gif-converter](https://github.com/Emindu/dev_short_cut/assets/41495728/3d9f32d8-be67-4b84-b451-87a551b92dc2)
 
+5. **surroding with try/catch or others**
+```
+ctrl + alt + T
+```
+![Untitled design](https://github.com/Emindu/dev_short_cut/assets/41495728/1e5a5eab-c07c-4a82-be68-a18ba1b3820e)
+   
